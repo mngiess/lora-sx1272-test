@@ -6,3 +6,11 @@ Lora SX1272 test code
     cd raspberrypi_2.0
     ./compile_rpi2 
 
+## Compile SX1272 driver
+
+    g++ -I./raspberrypi_2.0/ardupi2.0 -c SX1272.cpp -o SX1272.o
+    
+## Compile transmitter application
+
+    g++ -I./raspberrypi_2.0/ardupi2.0 -lpthread -lrt transmitter.cpp SX1272.o ./raspberrypi_2.0/ardupi2.0/arduPi.o -o transmitter
+    
