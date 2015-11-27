@@ -14,3 +14,6 @@ Lora SX1272 test code
 
     g++ -I./raspberrypi_2.0/ardupi2.0 -lpthread -lrt transmitter.cpp SX1272.o ./raspberrypi_2.0/ardupi2.0/arduPi.o -o transmitter
     
+## Compile receiver application
+
+    g++ -I./raspberrypi_2.0/ardupi2.0 -lpthread -lrt receiver.cpp SX1272.o ./raspberrypi_2.0/ardupi2.0/arduPi.o -o receiver
