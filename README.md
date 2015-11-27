@@ -1,4 +1,4 @@
-# Lora SX1272 test code
+# LoRa SX1272 test code
 
 This repo contains test code for Lora SX1272 radios connected to Raspberry Pis.
 
