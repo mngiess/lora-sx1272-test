@@ -4,7 +4,8 @@ Lora SX1272 test code
 ## Compile arduiPi libraray for Raspberry Pi 2.0
 
     cd raspberrypi_2.0
-    ./compile_rpi2 
+    ./compile_rpi2
+    cd ..
 
 ## Compile SX1272 driver
 
