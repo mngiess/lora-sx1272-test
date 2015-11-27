@@ -6,7 +6,7 @@ This repo contains test code for Lora SX1272 radios connected to Raspberry Pis.
 
 * 2 x Raspberry Pi 2 Mode B
 * 2 x Raspberry Pi to Arduino shields connection bridge
-* 2 x LoRa Modle SX1272 (868/900MHz) 
+* 2 x LoRa Module SX1272 (868/900MHz) 
 
 ## Compile software
 
