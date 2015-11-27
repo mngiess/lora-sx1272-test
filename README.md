@@ -1,12 +1,14 @@
 # LoRa SX1272 test code
 
-This repo contains test code for Lora SX1272 radios connected to Raspberry Pis.
+This repo contains test code for LoRa SX1272 radios connected to Raspberry Pis.
 
 ## Hardware Requirements
 
 * 2 x Raspberry Pi 2 Model B
 * 2 x Raspberry Pi to Arduino shields connection bridge
 * 2 x LoRa Module SX1272 (868/900MHz) 
+
+![Raspberry Pi with LoRa radio](https://raw.githubusercontent.com/mngiess/lora-sx1272-test/master/pi%2Blora.jpg)
 
 ## Compile software
 
