@@ -12,7 +12,7 @@ This repo contains test code for Lora SX1272 radios connected to Raspberry Pis.
 
 ### Clone repo both Raspberry Pis
 
-   git clone https://github.com/mngiess/lora-sx1272-test.git
+    git clone https://github.com/mngiess/lora-sx1272-test.git
 
 ### Compile arduiPi libraray for Raspberry Pi 2.0
 
